@@ -1,2 +1,5 @@
 
-print "Hello World!"
+def f(x):
+	print x
+
+f("Hello World")
